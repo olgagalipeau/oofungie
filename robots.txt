@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oochahvilu.claudiuandrei.com/sitemap.xml
